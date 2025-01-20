@@ -18,6 +18,8 @@ The Shark Tank India Power BI project aims to provide an intuitive and comprehen
 
 **Specific Sharks Page**: To provide detailed insights into the performance and preferences of individual investors. This dashboard offers a personalized view for each shark, showcasing their individual contributions, preferences, and focus areas. It highlights their total deals, industries of interest, and preferred deal structures.
 
+Please free to access the dashboard and provide feedback - https://app.powerbi.com/groups/me/reports/97237c08-45b2-4d86-8468-24518838087a/a76e66d73c652218f1ea?experience=power-bi
+
 
      
  
